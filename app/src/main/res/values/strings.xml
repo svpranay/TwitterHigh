@@ -1,3 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <string name="app_name">TwitterHigh</string>
+    <string name="login_label">Connect To Twitter</string>
+    <string name="compose">compose</string>
+    <string name="tweetMessage">tweet</string>
+    <string name="signout">signout</string>
+
 </resources>

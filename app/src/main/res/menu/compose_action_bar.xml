@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/action_tweet"
+        android:title="@string/tweetMessage"
+        android:icon="@android:drawable/stat_sys_upload_done"
+        android:showAsAction="ifRoom"
+        android:onClick="tweetMessage"
+        tools:ignore="AppCompatResource" />
+</menu>

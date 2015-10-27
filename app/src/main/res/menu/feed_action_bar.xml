@@ -1,0 +1,17 @@
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/action_compose"
+        android:title="@string/compose"
+        android:icon="@android:drawable/ic_dialog_email"
+        android:showAsAction="ifRoom"
+        android:onClick="startComposeActivity"
+        tools:ignore="AppCompatResource" />
+
+    <item android:id="@+id/action_signout"
+        android:title="@string/signout"
+        android:icon="@android:drawable/ic_delete"
+        android:showAsAction="ifRoom"
+        android:onClick="signout"
+        tools:ignore="AppCompatResource" />
+</menu>
