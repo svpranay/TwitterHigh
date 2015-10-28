@@ -13,8 +13,5 @@ Completed :
   7. Implemented pull to refresh.
   8. Implemented character count displayed on the top right corner.
   9. Enable links in tweets clickable and open in browser.
-
-I added the icons but they aren't displayed and I couldn't figure out the reason.  
-  1. User can click a “Compose” icon in the Action Bar on the top right
-
-Working on few more optinals but couldn't complete them yet.
+  10. Twitter tweet text count indicator.
+  
